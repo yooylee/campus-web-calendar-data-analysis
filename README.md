@@ -15,3 +15,8 @@ However, there was no information available about how campus spaces were used fo
 Since uoCal, the online campus-wide calendar of events, contains comprehensive information on campus events, we decided to utilize uoCal data to analyze and visualize how campus spaces have been used based on event types and hours.
 
 Using R and Python, we scrap web data, conduct data wrangling, analyze, and visualize datasets in order to make evidence-based decisions.
+
+### First Step: web scraping
+
+Using ComputeCanada with R, we were able to download 10,757 datasets from uoCal available since 2011 on November 22, 2018.
+File: uoCal web scraping.R
